@@ -1,4 +1,4 @@
-# 🦜🔗 Awesome LangChain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
+ 🦜🔗 Awesome LangChain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 
 > Curated list of tools and projects using LangChain.
 
